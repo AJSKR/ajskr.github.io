@@ -24,7 +24,7 @@ plugins:
 url: 'https://ajskr.github.io'
 baseurl: ''
 title: 'Blog'
-description: 'Blog'
+description: 'Blog blahblah'
 permalink: pretty
 
 # Pagination
